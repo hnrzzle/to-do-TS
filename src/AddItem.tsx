@@ -1,7 +1,7 @@
 import * as React from 'react';
 
 
-export default class IApp extends React.Component {
+export default class AddItme extends React.Component <{}> {
   public render() {
     return (
       <div>
